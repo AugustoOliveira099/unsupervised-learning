@@ -78,5 +78,10 @@ Cada projeto possui:
 
 ---
 
-**Autor:** Augusto Oliveira  
-**Disciplina:** Aprendizado Não Supervisionado em Machine Learning
+## Autor
+
+**José Augusto Agripino de Oliveira**
+
+Mestrando em Engenharia Elétrica e de Computação  
+Programa de Pós-Graduação em Engenharia Elétrica e de Computação (PPgEEC)  
+Universidade Federal do Rio Grande do Norte (UFRN)
