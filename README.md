@@ -22,7 +22,7 @@ Aprofundamento em estatística multivariada, explorando as relações e dependê
 Aplicação prática de técnicas de clusterização em dados reais de sismografia. O objetivo foi segmentar dados sísmicos a fim de evidenciar estruturas de interesse para profissionais que analisam sismogramas, demonstrando como o machine learning não supervisionado pode ser utilizado em contextos de exploração geofísica.
 
 - 📖 **Notebook:** [projeto-1/segmentacao.ipynb](projeto-1/segmentacao.ipynb)
-- 📊 **Apresentação:** [Disponível no repositório]
+- 📊 **Apresentação:** [projeto-1/Segmentacao_de_Dados_Sismicos_Utilizando_K-means.pptx.pdf](projeto-1/Segmentacao_de_Dados_Sismicos_Utilizando_K-means.pptx.pdf)
 
 ### **Lista 3** - Análise de Componentes Principais (PCA)
 Introdução a técnicas de redução de dimensionalidade, começando com PCA, um dos métodos mais fundamentais e amplamente utilizados para reduzir a complexidade de datasets mantendo informações importantes.
@@ -45,7 +45,7 @@ Exploração de técnicas não-lineares e avançadas para redução de dimension
 Projeto final aplicando uma abordagem de aprendizado profundo não supervisionado: **Masked Autoencoders**. A técnica foi utilizada para recuperar dados faltantes ou muito ruidosos em registros sísmicos 3D, um problema comum em aplicações geofísicas reais onde dados corruptos ou incompletos são frequentes.
 
 - 📖 **Notebook:** [projeto-2/masked_autoencoders_para_reconstrucao_de_dados_sismicos_3d.ipynb](projeto-2/masked_autoencoders_para_reconstrucao_de_dados_sismicos_3d.ipynb)
-- 📊 **Apresentação:** [Disponível no repositório]
+- 📊 **Apresentação:** [projeto-2/Reconstrucao-de-Imagens-com-Masked-Autoencoders-(MAE).pdf](projeto-2/Reconstrucao-de-Imagens-com-Masked-Autoencoders-(MAE).pdf)
 
 ---
 
