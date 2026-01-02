@@ -78,7 +78,7 @@ Cada projeto possui:
 
 ---
 
-## Autor
+## 👤 Autor
 
 **José Augusto Agripino de Oliveira**
 
