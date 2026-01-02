@@ -1,13 +1,13 @@
 # Aprendizado Não Supervisionado de Máquina
 
-Repositório contendo listas de exercícios e projetos práticos para a disciplina **Aprendizado Não Supervisionado de Máquina**. O material abrange desde conceitos fundamentais de estatística até técnicas avançadas de redução de dimensionalidade e aprendizado profundo não supervisionado.
+Repositório contendo listas de exercícios e projetos práticos para a disciplina **Aprendizado Não Supervisionado de Máquina** do mestrado no Programa de Pós-graduação em Engenharia Elétrica e de Computação (PPgEEC) da Universidade Federal do Rio Grande do Norte (UFRN). O material abrange desde conceitos fundamentais de estatística até técnicas avançadas de redução de dimensionalidade e aprendizado profundo não supervisionado.
 
 ---
 
 ## 📚 Estrutura do Repositório
 
 ### **Lista 1** - Estatística Univariada
-Exercícios fundamentais para relembrar e aprender conceitos de estatística univariada, essencial para entender o comportamento de variáveis individuais em datasets.
+Exercícios fundamentais para relembrar e aprender conceitos de estatística univariada, essenciais para entender o comportamento de variáveis individuais em datasets.
 
 - 📖 **Notebook:** [lista-1/lista-1.ipynb](lista-1/lista-1.ipynb)
 - 🎥 **Vídeo Explicativo:** [https://youtu.be/9MprG9LXeUw](https://youtu.be/9MprG9LXeUw)
