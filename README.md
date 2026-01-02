@@ -1,6 +1,6 @@
-# Aprendizado Não Supervisionado em Machine Learning
+# Aprendizado Não Supervisionado de Máquina
 
-Repositório contendo listas de exercícios e projetos práticos para a disciplina de **Aprendizado Não Supervisionado em Machine Learning**. O material abrange desde conceitos fundamentais de estatística até técnicas avançadas de redução de dimensionalidade e aprendizado profundo não supervisionado.
+Repositório contendo listas de exercícios e projetos práticos para a disciplina **Aprendizado Não Supervisionado de Máquina**. O material abrange desde conceitos fundamentais de estatística até técnicas avançadas de redução de dimensionalidade e aprendizado profundo não supervisionado.
 
 ---
 
